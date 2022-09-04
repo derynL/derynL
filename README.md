@@ -2,7 +2,6 @@
 - 👀 I’m interested in front end development  
 - 🌱 I’m currently learning Javascript, Python, Java, HTML and CSS.  
 - 💞️ I’m looking to collaborate on anything suitable for a complete newb  
-- 📫 How to reach me: entropikmusic@gmail.com  
 
 <!---
 derynL/derynL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
