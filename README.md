@@ -8,9 +8,9 @@
 # My Repos
 ## [Digital Futures Academy Challenges](https://github.com/derynL/digital-futures-challenges)
 ### All assessed challenges for the 12 week software engineering course
--   Scrabble Challenge - Java (in progress)
--   Bank Challenge (complete)
--   Airport Challenge (complete)
+-   Scrabble Challenge - Java (passed with merit)
+-   Bank Challenge (passed with distinction)
+-   Airport Challenge (passed with distinction)
 ## [First Repository](https://github.com/derynL/firstRepository)
 ### My first JavaScript efforts: 
 -   Some fun games to practise logic, functions and basic dom manipulation, CSS and HTML
