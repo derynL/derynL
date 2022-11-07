@@ -11,6 +11,10 @@
 -   Scrabble Challenge - Java (passed with merit)
 -   Bank Challenge (passed with distinction)
 -   Airport Challenge (passed with distinction)
+## [Python Basics](https://github.com/derynL/python_projects)
+-   Recipe Retrieval: a collaborative project done on my CFG Python course, putting functions, files and API requests (edamam.com in this case) into practice
+-   Recording Session Invoice Calculator: a simple program using PyDub to calculate overall duration of audio clips in WAV files and calculates a quote based on fee structure
+-   Shipping Quote Calculator: very simple calculator putting basic functions into practice
 ## [First Repository](https://github.com/derynL/firstRepository)
 ### My first JavaScript efforts: 
 -   Some fun games to practise logic, functions and basic dom manipulation, CSS and HTML
