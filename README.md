@@ -9,9 +9,12 @@
 # My Repos
 ## [Digital Futures Academy Challenges](https://github.com/derynL/digital-futures-challenges)
 ### All assessed challenges for the 12 week software engineering course
--   Scrabble Challenge - Java (passed with merit)
--   Bank Challenge (passed with distinction)
--   Airport Challenge (passed with distinction)
+-   Chitter Challenge - Full stack: React, Express, Node & MongoDB
+-   Rock Paper Scissors Challenge - Express & Node
+-   News Challenge - React & Node
+-   Scrabble Challenge - Java
+-   Bank Challenge - vanilla JavaScript
+-   Airport Challenge - vanilla JavaScript
 ## [Python Basics](https://github.com/derynL/python_projects)
 -   Recipe Retrieval: a collaborative project done on my CFG Python course, putting functions, files and API requests (edamam.com in this case) into practice
 -   Recording Session Invoice Calculator: a simple program using PyDub to calculate overall duration of audio clips in WAV files and calculates a quote based on fee structure
