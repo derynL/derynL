@@ -8,8 +8,8 @@
 
 # My Repos
 ## SessionHub - a side project in progress
-  ### [Frontend](https://github.com/derynL/sessionHubFrontend)
-  ### [Backend](https://github.com/derynL/sessionHubBackend)
+  - ### [Frontend](https://github.com/derynL/sessionHubFrontend)
+  - ### [Backend](https://github.com/derynL/sessionHubBackend)
 ## [Digital Futures Academy Challenges](https://github.com/derynL/digital-futures-challenges)
 ### All assessed challenges for the 12 week software engineering course
 -   Chitter Challenge - Full stack: React, Express, Node & MongoDB
