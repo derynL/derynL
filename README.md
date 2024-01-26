@@ -1,8 +1,7 @@
 # About Me 
 
-- Until 2022, I was a professional cellist, composer and teacher
-- I recently completed a 12 week software engineering course with Digital Futures, and am now preparing to take the Oracle Certified Foundations Associate, Java certificate exam.
-- My aim is to emerge as a well rounded software engineer with a solid grasp of design principals, methodologies, and the ability to write beautiful, elegant code. 
+- Former pro cellist and composer
+- Software developer since 2022
 - Always happy to take feedback and advice from those further along on their tech journey.
 - As a cellist and composer, I'm also interested in music-oriented applications 🎵 
 
