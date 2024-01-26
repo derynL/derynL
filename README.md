@@ -2,8 +2,7 @@
 
 - Former pro cellist and composer
 - Software developer since 2022
-- Always happy to take feedback and advice from those further along on their tech journey.
-- As a cellist and composer, I'm also interested in music-oriented applications 🎵 
+- Also interested in music-oriented tech 🎵 
 
 # My Repos
 
