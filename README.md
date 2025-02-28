@@ -2,26 +2,10 @@
 
 - Former pro cellist and composer
 - Software developer since 2022
+- Technical Product Owner since 2025
 - Also interested in music-oriented tech 🎵 
 
-# My Repos
 
-## [Digital Futures Academy Challenges](https://github.com/derynL/digital-futures-challenges)
-### All assessed challenges for the 12 week software engineering course
--   Chitter Challenge - Full stack: React, Express, Node & MongoDB
--   Rock Paper Scissors Challenge - Express & Node
--   News Challenge - React & Node
--   Scrabble Challenge - Java
--   Bank Challenge - vanilla JavaScript
--   Airport Challenge - vanilla JavaScript
-## [Python Basics](https://github.com/derynL/python_projects)
--   Recipe Retrieval: a collaborative project done on my CFG Python course, putting functions, files and API requests (edamam.com in this case) into practice
--   Recording Session Invoice Calculator: a simple program using PyDub to calculate overall duration of audio clips in WAV files and calculates a quote based on fee structure
--   Shipping Quote Calculator: very simple calculator putting basic functions into practice
-## [First Repository](https://github.com/derynL/firstRepository)
-### My first JavaScript efforts: 
--   Some fun games to practise logic, functions and basic dom manipulation, CSS and HTML
--   Some beginner to intermediate JavaScript projects looking at modules and classes
 
 <!---
 derynL/derynL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
